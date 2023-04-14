@@ -1,3 +1,5 @@
+# Desafio Code Saga
+
 # Checando cadastros
 
 Dula Peep, dona da discoteca 'Nostalgia do Futuro' e aspirante a artista pop, recentemente contratou um profissional para fazer uma aplicação na qual ela pudesse vender seus discos e, ao mesmo tempo, promover sua discoteca. Esse website é responsável por permitir que usuários se cadastrem nele e comprem ingressos tanto para suas festas quanto para seus shows. Porém, tal profissional não fez um bom trabalho: esqueceu das validações padrão do Rails e deixou o cadastro sem controle nenhum de dados. Desesperada, Dula Peep ligou para você, seu sobrinho que manja de tecnologia, para resolver o problema para ela: checar os cadastros já existentes. Você, que está fazendo um processo seletivo para uma empresa de tecnologia de renome no mercado, resolve ajudá-la e, ao mesmo tempo, praticar os conhecimentos adquiridos em Orientação a Objetos.
